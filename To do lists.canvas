@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"ded443c0ed1112d1","x":400,"y":-40,"width":400,"height":400,"type":"file","file":"Github cloud/الورق المطلوب بعد التخرج.md"},
-		{"id":"ce2b3a92978dab5f","x":20,"y":-96,"width":250,"height":256,"type":"text","text":""}
+		{"id":"ce2b3a92978dab5f","x":-140,"y":-440,"width":350,"height":336,"type":"text","text":"##### TO DO:\n- [ ] finish graduation papers \n\t- [ ] صور شخصية \n\t- [ ] ق"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f8638a58b6cb24f2","fromNode":"ce2b3a92978dab5f","fromSide":"bottom","toNode":"ded443c0ed1112d1","toSide":"top"}
+	]
 }
