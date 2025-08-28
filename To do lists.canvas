@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"98ce11b6e75d36b3","x":-125,"y":-30,"width":250,"height":250,"type":"text","text":"##### SAT:\n- [ ] "}
+		{"id":"ded443c0ed1112d1","x":400,"y":-40,"width":400,"height":400,"type":"file","file":"Github cloud/الورق المطلوب بعد التخرج.md"},
+		{"id":"ce2b3a92978dab5f","x":20,"y":-96,"width":250,"height":256,"type":"text","text":""}
 	],
 	"edges":[]
 }
